@@ -1,2 +1,2 @@
 # apple-redesign
-e-commerce
+e-commerce store built with TypeScript
